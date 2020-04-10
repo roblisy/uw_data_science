@@ -1,2 +1,9 @@
+# No config files in git!
 *.yaml
 *.yml
+
+# R studio.
+.DS_Store
+
+# ignore Jupyter checkpoints
+*.ipynb_checkpoints*
