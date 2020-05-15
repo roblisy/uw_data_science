@@ -1,0 +1,4 @@
+{"drinks": ["coffee", "tea", "water"]}
+{"drinks": ["coffee", "juice", "rum", "beer"]}
+{"drinks": ["vodka", "tapioca", "lulo"]}
+{"drinks": ["milk", "kambucha", "water"]}
