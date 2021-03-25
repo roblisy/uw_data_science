@@ -7,4 +7,4 @@ mlxtend==0.17.2
 graphviz==2.38
 pip==20.0.2
 requests==2.23.0
-pyyaml==5.3.1
+pyyaml==5.4
